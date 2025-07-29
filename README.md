@@ -18,7 +18,7 @@
 
 ---
 ## 🔗 Demo Video 
-👉 [Click to See](https://drive.google.com/file/d/1ZYgb7hotE0G994HYI8BGvgUqIDAW0Tug/view?usp=sharing)
+👉 [Watch the Demo](https://drive.google.com/file/d/1ZYgb7hotE0G994HYI8BGvgUqIDAW0Tug/view?usp=sharing)
 
 ## ✨ What is HandsMen Threads?
 
