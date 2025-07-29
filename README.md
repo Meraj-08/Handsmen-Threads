@@ -2,7 +2,7 @@
   <br />
   <h1>🧵 HANDSMEN THREADS</h1>
   <p>
-    <em>Elevating the Art of Sophistication in Men's Fashion with Salesforce-powered digital transformation.</em>
+    <h3>Elevating the Art of Sophistication in Men's Fashion with Salesforce-powered digital transformation.</h3>
   </p>
 
   <p>
@@ -14,7 +14,6 @@
 
 </div>
 
-# HandsMen Threads: Elevating the Art of Sophistication in Men's Fashion  
 
 ---
 ## 🔗 Demo Video 
