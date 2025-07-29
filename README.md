@@ -152,3 +152,8 @@ Example: <br>Triggers:<br>
 ## CONCLUSION<br>
 The HandsMen Threads CRM system built on Salesforce successfully streamlines key business processes like customer management, product cataloging, order processing, inventory tracking, and loyalty program automation. By leveraging Salesforce tools like Custom Objects, Flows, Validation Rules, and Apex, the system ensures accurate data entry, real-time updates, and enhanced customer experience. Through automation and well-structured user roles, the platform minimizes manual errors, speeds up operations, and provides better insights into sales and stock.
 
+## 👨‍💻 Author
+
+Made with ❤️ by **Md Meraj Alam**  
+_Your feedback is always welcome!_
+
