@@ -123,7 +123,7 @@ Example:<br>
 Predefined formats for sending emails to customers or users.<br>
 Example:<br>
 •	"Order Confirmation" template<br>
- <img width="868" height="189" alt="image" src="assetes/emailalert2.png" /><br><br>
+ <img width="868" height="455" alt="image" src="assetes/emailalert2.png" /><br><br>
 
 
 ### Email Alerts :<br>
